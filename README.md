@@ -5,6 +5,6 @@ This project detects numeric hand gestures using OpenCV and Image Proccessing.
 Run as a usual ".py" script
 
 # Problems Faced
-Introduces some noise if the background color is close to skin color range.Will give best results if the background is extremely light or extremely dark toned.
+Introduces some noise if the background color is close to skin color range. Gives best results if the background is extremely light or extremely dark toned.
 
 
