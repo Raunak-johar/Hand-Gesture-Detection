@@ -1,5 +1,8 @@
 # Hand Gesture Detection
-This project detects numeric hand gestures using OpenCV and Image Proccessing.
+This project detects numeric hand gestures.
+
+# Introduction
+I have used basic Image Processing techniques for feature extraction from video frames and then used that to predict the gesture that has been made from 0-5. 
 
 # Usage
 Run as a usual ".py" script
