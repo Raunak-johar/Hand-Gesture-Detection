@@ -1,2 +1,4 @@
 # Hand Gesture Detection
-This is a hand gesture detection 
+This project detects numeric hand gestures using OpenCV and Image Proccessing.
+
+#Usage
